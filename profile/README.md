@@ -1,6 +1,13 @@
 # Podcast de La Cité
 
-![11 Podcasts](https://img.shields.io/badge/podcasts-11-red) ![Inactive](https://img.shields.io/badge/status-inactive-red)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/PodcastDeLaCite/.github/main/profile/images/podcastdelacite-logo.png">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/podcasts-11-red">
+    <img src="https://img.shields.io/badge/status-inactive-red">
+</p>
 
 The Podcast de La Cité formerly was a student organization at the [Gymnase de La Cité](https://www.gymnasecite.ch/), in Switzerland.
 
