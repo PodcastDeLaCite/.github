@@ -1,7 +1,7 @@
 # Podcast de La Cité
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PodcastDeLaCite/.github/main/profile/images/podcastdelacite-logo.jpg">
+    <img src="https://raw.githubusercontent.com/PodcastDeLaCite/.github/main/profile/images/podcastdelacite-logo.png">
 </p>
 
 <p align="center">
